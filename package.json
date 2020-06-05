@@ -1,0 +1,34 @@
+{
+  "name": "node-smartcielo-http",
+  "version": "0.0.1",
+  "description": "Simple HTTP wrapper for node-smartcielo remote AC control API (MRCOOL)",
+  "main": "index.js",
+  "dependencies": {
+    "node-smartcielo": "^0.0.3",
+    "command-line-args": "^5.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "node-smartcielo-http": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasrobinson/node-smartcielo-http.git"
+  },
+  "keywords": [
+    "MRCOOL",
+    "smartcielo",
+    "smarthvac",
+    "node-smartcielo",
+    "http"
+  ],
+  "author": "Nicholas Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicholasrobinson/node-smartcielo-http/issues"
+  },
+  "homepage": "https://github.com/nicholasrobinson/node-smartcielo-http#readme"
+}

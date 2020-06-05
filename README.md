@@ -4,7 +4,7 @@ by Nicholas Robinson
 
 [![mit license](https://badgen.net/badge/license/MIT/red)](https://github.com/nicholasrobinson/node-smartcielo/blob/master/LICENSE)
 [![npm](https://badgen.net/npm/v/node-smartcielo-http)](https://www.npmjs.com/package/node-smartcielo-http)
-[![npm](https://badgen.net/npm/dt/node-smartcielo)](https://www.npmjs.com/package/node-smartcielo-http)
+[![npm](https://badgen.net/npm/dt/node-smartcielo-http)](https://www.npmjs.com/package/node-smartcielo-http)
 
 ## Overview
 
@@ -12,8 +12,8 @@ This simple HTTP server exposes APIs to facilitate automation of the MRCOOL DIY 
 
 ## Installation
 
-    $ npm install node-smartcielo-http
-    $ node node_modules/node-smartcielo-http/index.js -l 6969 -u <username> -p <password> -i <ip_address>
+    $ npm install -g node-smartcielo-http
+    $ node-smartcielo-http -l 6969 -u <username> -p <password> -i <ip_address>
 
 ### Sample Usage (and responses)
 
