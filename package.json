@@ -1,6 +1,6 @@
 {
   "name": "node-smartcielo-http",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple HTTP wrapper for node-smartcielo remote AC control API (MRCOOL)",
   "main": "index.js",
   "dependencies": {
