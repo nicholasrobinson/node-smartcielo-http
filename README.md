@@ -6,6 +6,13 @@ by Nicholas Robinson
 [![npm](https://badgen.net/npm/v/node-smartcielo-http)](https://www.npmjs.com/package/node-smartcielo-http)
 [![npm](https://badgen.net/npm/dt/node-smartcielo-http)](https://www.npmjs.com/package/node-smartcielo-http)
 
+## NO LONGER MAINTAINED
+
+THIS PROJECT IS DEPRECATED
+
+> This project has been parked in favor of using MQTT and the excellent [SMARTLIGHT SLWF-01pro](https://smartlight.me/smart-home-devices/wifi-devices/wifi-dongle-air-conditioners-midea-idea-electrolux-for-home-assistant) ([alternate Link](https://www.tindie.com/products/smartlightme/wifi-dongle-for-air-conditioners-midea-electrolux/)). This achieves local network control with vastly improved reliability.
+> A big thank you to all those that contributed to this software and reported issues.
+
 ## Overview
 
 This simple HTTP server exposes APIs to facilitate automation of the MRCOOL DIY line of ACs via [node-smartcielo](https://github.com/nicholasrobinson/node-smartcielo). This could be used to integrate node-smartcielo with hass.io for example as described [here](https://community.home-assistant.io/t/nodejs-on-hass-io/27354).
